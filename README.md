@@ -9,12 +9,12 @@ The goal is to build a dynamic web-page that displays UFOs sightings information
 
 ## Results
 
-[!Website_Overview](/static/images/website.png)
+[!Website_Overview](//static//images//website.png)
 
 The dynamic webpage allows the user to filter various preferences to load their search results. This interactive webpage is very intuitive to find results.
 
 
-[!Refresh_Button](/static/images/refresh_button.png)
+[!Refresh_Button](//static//images//refresh_button.png)
 
 The user can also refresh the webpage and filter new results by simply clicking the top left button labeled "UFO Sightings".
 
